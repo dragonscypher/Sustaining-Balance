@@ -1,0 +1,318 @@
+country,year,final_sentiment_score
+ Australia   ,2010,0.25
+ Australia   ,2012,0.0
+ Australia   ,2015,-0.125
+ Australia   ,2015,-0.25
+ Australia   ,2015,0.0
+ Australia   ,2016,-0.25
+ Australia   ,2017,0.08333333333333333
+ Australia   ,2017,0.25
+ Australia   ,2018,0.0
+ Australia   ,2018,0.25
+ Australia   ,2018,-0.25
+ Australia   ,2018,0.25
+ Australia   ,2019,-0.0357142857142857
+ Australia   ,2019,-0.25
+ Australia   ,2019,-0.25
+ Australia   ,2020,-0.08333333333333333
+ Australia   ,2020,-0.25
+ Australia   ,2021,-0.08333333333333333
+ Australia   ,2021,-0.25
+ Australia   ,2021,0.5
+ Australia   ,2022,0.08333333333333333
+ Australia   ,2022,-0.25
+ Australia   ,2022,0.0
+ Australia   ,2023,0.08333333333333333
+ Australia   ,2023,0.5
+ Australia   ,2023,0.0
+ Australia   ,2023,0.0
+ Australia   ,2023,0.25
+ Austria         ,2017,0.0
+ Belgium         ,2019,0.5
+ Brazil            ,2015,0.25
+ Brazil            ,2017,0.25
+ Brazil            ,2018,0.25
+ Brazil            ,2018,0.0
+ Brazil            ,2019,-0.08333333333333333
+ Brazil            ,2020,0.25
+ Brazil            ,2021,0.0
+ Brazil            ,2022,-0.25
+ Brazil            ,2022,-0.25
+ Brazil            ,2022,-0.25
+ Brazil            ,2022,0.25
+ Cambodia ,2016,0.0
+ Canada          ,2010,0.25
+ Canada          ,2011,0.25
+ Canada          ,2011,0.25
+ Canada          ,2013,0.25
+ Canada          ,2015,0.25
+ Canada          ,2015,-0.25
+ Canada          ,2016,0.25
+ Canada          ,2016,0.25
+ Canada          ,2016,0.25
+ Canada          ,2016,-0.5
+ Canada          ,2017,0.25
+ Canada          ,2017,-0.25
+ Canada          ,2017,0.25
+ Canada          ,2018,0.25
+ Canada          ,2018,0.25
+ Canada          ,2018,0.0
+ Canada          ,2018,0.25
+ Canada          ,2019,0.25
+ Canada          ,2019,0.15
+ Canada          ,2019,-0.25
+ Canada          ,2020,0.125
+ Canada          ,2020,0.25
+ Canada          ,2020,0.25
+ Canada          ,2020,0.25
+ Canada          ,2021,0.15909090909090912
+ Canada          ,2021,-0.25
+ Canada          ,2021,0.25
+ Canada          ,2021,-0.25
+ Canada          ,2021,-0.25
+ Canada          ,2021,0.0
+ Canada          ,2022,-0.16666666666666666
+ Canada          ,2022,-0.25
+ Canada          ,2022,-0.5
+ Canada          ,2022,-0.25
+ Canada          ,2023,0.020441729323308244
+ Canada          ,2023,0.5
+ Canada          ,2023,0.25
+ Canada          ,2023,0.5
+ Canada          ,2023,0.75
+ Canada          ,2023,-0.5
+ Canada          ,2023,0.25
+ Canada          ,2023,-0.25
+ Canada          ,2023,0.125
+ China ,2017,0.0
+ Colombia ,2022,0.25
+ Czech Republic  ,2018,0.0
+ Denmark         ,2022,-0.25
+ France         ,2016,0.25
+ France         ,2017,-0.25
+ France         ,2017,0.25
+ France         ,2018,0.0
+ France         ,2018,-0.25
+ France         ,2019,-0.25
+ France         ,2019,0.25
+ France         ,2020,-0.125
+ France         ,2022,0.25
+ France         ,2023,-0.125
+ France         ,2023,0.25
+ Germany     ,2016,0.0
+ Germany     ,2018,-0.25
+ Germany     ,2018,-0.25
+ Germany     ,2018,-0.25
+ Germany     ,2019,-0.08333333333333333
+ Germany     ,2020,0.125
+ Germany     ,2020,0.25
+ Germany     ,2020,0.125
+ Germany     ,2021,-0.25
+ Germany     ,2022,-0.25
+ Greece            ,2016,0.25
+ Greece            ,2016,0.0
+ Greece            ,2019,0.0
+ Greece            ,2023,0.0
+ India          ,2010,0.25
+ India          ,2011,0.25
+ India          ,2012,0.0
+ India          ,2014,0.25
+ India          ,2015,0.25
+ India          ,2016,0.25
+ India          ,2017,-0.25
+ India          ,2017,0.0
+ India          ,2017,-0.25
+ India          ,2017,0.0
+ India          ,2018,0.0
+ India          ,2018,0.25
+ India          ,2018,-0.25
+ India          ,2018,0.25
+ India          ,2019,0.25
+ India          ,2019,0.25
+ India          ,2019,0.25
+ India          ,2019,-0.25
+ India          ,2020,-0.25
+ India          ,2020,-0.25
+ India          ,2020,-0.25
+ India          ,2020,0.25
+ India          ,2020,0.0
+ India          ,2021,0.5
+ India          ,2021,-0.5
+ India          ,2021,-0.25
+ India          ,2022,0.08333333333333333
+ India          ,2022,-0.08333333333333333
+ India          ,2022,0.0
+ India          ,2023,0.3333333333333333
+ India          ,2023,0.625
+ India          ,2023,0.375
+ India          ,2023,-0.5
+ India          ,2023,-0.25
+ Ireland ,2016,0.25
+ Italy ,2015,0.08333333333333333
+ Italy ,2015,-0.25
+ Italy ,2015,0.25
+ Italy ,2016,-0.25
+ Italy ,2018,0.25
+ Italy ,2019,0.25
+ Jamaica ,2020,0.25
+ Japan       ,2015,-0.25
+ Japan       ,2017,0.125
+ Japan       ,2020,-0.125
+ Japan       ,2020,-0.25
+ Japan       ,2020,0.5
+ Japan       ,2020,0.0
+ Japan       ,2021,0.0
+ Japan       ,2022,-0.25
+ Japan       ,2023,0.25
+ Japan       ,2023,0.0
+ Jordan ,2023,0.25
+ Kenya ,2021,-0.25
+ Maldives ,2019,0.25
+ Netherlands     ,2016,-0.25
+ Netherlands     ,2021,0.25
+ Netherlands     ,2022,0.25
+ Norway ,2018,0.25
+ Peru ,2017,0.0
+ Portugal        ,2016,0.0
+ Scotland ,2016,0.0
+ Spain           ,2016,-0.25
+ Spain           ,2018,-0.25
+ Spain           ,2019,-0.25
+ Spain           ,2019,-0.25
+ Spain           ,2021,0.0
+ Sweden          ,2019,0.25
+ Switzerland ,2019,0.25
+ Switzerland ,2020,0.25
+ Thailand ,2019,0.25
+ UK                ,2011,0.25
+ UK                ,2013,0.25
+ UK                ,2014,0.5
+ UK                ,2016,0.25
+ UK                ,2016,0.25
+ UK                ,2016,0.5
+ UK                ,2016,-0.25
+ UK                ,2016,0.125
+ UK                ,2017,0.25
+ UK                ,2017,0.125
+ UK                ,2017,-0.25
+ UK                ,2017,-0.25
+ UK                ,2018,-0.05
+ UK                ,2018,-0.25
+ UK                ,2018,-0.25
+ UK                ,2018,0.25
+ UK                ,2019,-0.08333333333333333
+ UK                ,2019,0.25
+ UK                ,2019,-0.25
+ UK                ,2019,-0.25
+ UK                ,2019,0.0
+ UK                ,2019,0.25
+ UK                ,2020,0.25
+ UK                ,2020,0.375
+ UK                ,2020,0.25
+ UK                ,2020,-0.25
+ UK                ,2020,-0.25
+ UK                ,2020,0.0
+ UK                ,2021,0.25
+ UK                ,2021,-0.08333333333333333
+ UK                ,2021,0.0
+ UK                ,2022,0.25
+ UK                ,2022,0.25
+ UK                ,2022,-0.16666666666666666
+ UK                ,2023,0.39790209790209785
+ UK                ,2023,0.0
+ UK                ,2023,-0.25
+ UK                ,2023,0.75
+ UK                ,2023,0.75
+ UK                ,2023,0.0
+ UK                ,2023,-0.5
+ UK                ,2023,0.0
+ USA        ,2012,0.25
+ USA        ,2013,0.0
+ USA        ,2013,0.25
+ USA        ,2014,0.25
+ USA        ,2015,0.25
+ USA        ,2015,0.25
+ USA        ,2015,0.25
+ USA        ,2016,-0.15
+ USA        ,2016,-0.25
+ USA        ,2016,-0.25
+ USA        ,2016,0.25
+ USA        ,2017,-0.16666666666666669
+ USA        ,2017,-0.08333333333333333
+ USA        ,2017,0.0
+ USA        ,2018,0.25
+ USA        ,2018,0.08333333333333333
+ USA        ,2018,0.25
+ USA        ,2018,0.0
+ USA        ,2018,-0.25
+ USA        ,2018,0.5
+ USA        ,2019,0.35
+ USA        ,2019,0.0
+ USA        ,2019,-0.25
+ USA        ,2019,-0.125
+ USA        ,2020,0.25
+ USA        ,2020,0.09375
+ USA        ,2020,0.25
+ USA        ,2020,0.25
+ USA        ,2020,0.08333333333333333
+ USA        ,2020,0.0
+ USA        ,2021,-0.0625
+ USA        ,2021,0.0
+ USA        ,2021,-0.25
+ USA        ,2021,-0.25
+ USA        ,2021,-0.25
+ USA        ,2022,0.16666666666666666
+ USA        ,2022,-0.25
+ USA        ,2022,0.0
+ USA        ,2022,0.0
+ USA        ,2023,0.014452214452214441
+ USA        ,2023,0.6875
+ USA        ,2023,-0.25
+ USA        ,2023,0.25
+ USA        ,2023,0.25
+ USA        ,2023,0.375
+ USA        ,2023,-0.25
+ USA        ,2023,0.0
+ USA        ,2023,0.125
+ USA        ,2023,0.4375
+Cameroun,2020,0.16875
+South Africa,2018,0.25
+South Africa,2018,0.25
+South Africa,2019,0.0
+South Africa,2020,0.16875
+South Africa,2022,-0.25
+Trinidad and Tobago,2020,0.0
+United Kingdom,2020,19.29375
+United States,2020,12.99375
+Unknown,2020,30.6
+en Bangladeshxx,2020,0.45
+en België / Belgique / Belgiquexx,2020,0.1875
+en Botswanaxx,2020,0.05625
+en Canada Canadaxx,2020,5.4
+en Deutschlandxx,2020,0.16875
+en Españaxx,2020,0.05625
+en Francexx,2020,0.0
+en Gambiaxxxx,2020,0.1125
+en Hrvatskaxx,2020,0.0
+en Indonesiaxx,2020,0.0
+en Israelxx,2020,0.0
+en Nigeriaxx,2020,0.225
+en Nigerxx,2020,0.0
+en Norgexx,2020,0.05625
+en Polskaxx,2020,0.0
+en Portugalxx,2020,0.05625
+en Singaporexx,2020,2.1375
+en Sverigexx,2020,0.39375
+en Türkiyexx,2020,0.0
+en Ugandaxx,2020,0.39375
+en argentinexx,2020,0.0
+en australiaxx,2020,9.731250000000001
+en indiaxx,2020,1.18125
+en Éire / Irlande,2020,0.225
+"en, y a un nombre de personas.",2020,0.0
+en/Finland Suomixx,2020,0.05625
+en/Schweiz/Schweiz/Schweiz/Schweizxxxx,2020,2.75625
+en: Bulgariaxx,2020,0.0
+en: Ködörösese tî Béafrika / Central African Republic,2020,0.0
+enrussia russiaxx,2020,1.40625
+enzuelaxx,2020,0.0
